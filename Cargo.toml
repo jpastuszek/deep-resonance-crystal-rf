@@ -1,0 +1,7 @@
+[package]
+authors = ["Jakub Pastuszek <jpastuszek@gmail.com>"]
+name = "crystal-rf"
+version = "0.1.0"
+[dependencies]
+signifix = "*"
+structopt = "*"
